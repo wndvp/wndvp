@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/wndvp">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wndvp&theme=react&line_height=40&hide=css"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wndvp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wndvp&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
